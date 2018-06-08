@@ -1,0 +1,9 @@
+{
+  "realm": "keycloak-auth",
+  "bearer-only": true,
+  "auth-server-url": "http://localhost:8380/auth",
+  "ssl-required": "none",
+  "resource": "api",
+  "confidential-port": 0,
+  "enable-cors": true
+}
