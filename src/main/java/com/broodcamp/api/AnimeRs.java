@@ -6,7 +6,6 @@ import javax.ws.rs.core.Response;
 
 /**
  * @author Edward P. Legaspi
- * @version %I%, %G%
  * @since 1.0
  **/
 @Path("/animes")
