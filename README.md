@@ -7,7 +7,7 @@ This project secures a REST API service using Keycloak and runs on Wildfly.
 
 The REST API service is called by a frontend client running on Angular available at https://github.com/czetsuya/keycloak-angular-auth.
 
-Note: You need to import the realm and user configuration from the Angular project to run this project.
+Note: You need to import the realm configuration which also contains the user from the Angular project to run this project.
 
 # Requirements:
 
