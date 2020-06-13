@@ -9,7 +9,11 @@ The REST API service is called by a frontend client running on Angular available
 
 Note: You need to import the realm configuration which also contains the user from the Angular project to run this project.
 
-# Requirements:
+## Requirements:
 
  * Wildfly 19.1.0.Final
  * Keycloak 10.0.1
+
+## Authors
+
+ * **Edward P. Legaspi** - *Java Architect* - [czetsuya](https://github.com/czetsuya)
